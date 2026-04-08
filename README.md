@@ -1,12 +1,12 @@
-# 🧮 Tkinter Calculator (Python GUI Project)
+# Tkinter Calculator (Python GUI Project)
 
-## 📌 Overview
+## Overview
 This is a simple calculator application built using Python and Tkinter.  
 It provides a graphical user interface (GUI) where users can perform basic arithmetic operations.
 
 ---
 
-## ✨ Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
@@ -16,7 +16,7 @@ It provides a graphical user interface (GUI) where users can perform basic arith
 
 ---
 
-## 🖥️ User Interface
+## User Interface
 - Input field (Entry box) to display numbers and results
 - Buttons for digits (0–9)
 - Operation buttons (`+`, `-`, `*`, `/`)
@@ -25,13 +25,13 @@ It provides a graphical user interface (GUI) where users can perform basic arith
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Tkinter (built-in GUI library)
 
 ---
 
-## 📂 File Structure
+## File Structure
 Calculater_using_Tk.py
 README.md
 
